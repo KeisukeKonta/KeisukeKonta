@@ -23,6 +23,20 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
-[![KeisukeKonta (Keisuke Konta)](https://raw.githubusercontent.com/KeisukeKonta/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Top Languages by Repo](https://raw.githubusercontent.com/KeisukeKonta/github-profile-summary-cards/master/profile-summary-card-output/monokai/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Top Languages by Commit](https://raw.githubusercontent.com/KeisukeKonta/github-profile-summary-cards/master/profile-summary-card-output/monokai/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![Stats](https://raw.githubusercontent.com/KeisukeKonta/github-profile-summary-cards/master/profile-summary-card-output/monokai/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![Commits (UTC +0)](https://raw.githubusercontent.com/KeisukeKonta/github-profile-summary-cards/master/profile-summary-card-output/monokai/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/KeisukeKonta/github-profile-summary-cards/master/profile-summary-card-output/monokai/0-profile-details.svg" alt="KeisukeKonta (Keisuke Konta)">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/KeisukeKonta/github-profile-summary-cards/master/profile-summary-card-output/monokai/1-repos-per-language.svg" alt="Top Languages by Repo">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/KeisukeKonta/github-profile-summary-cards/master/profile-summary-card-output/monokai/2-most-commit-language.svg" alt="Top Languages by Commit">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/KeisukeKonta/github-profile-summary-cards/master/profile-summary-card-output/monokai/3-stats.svg" alt="Stats">
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://raw.githubusercontent.com/KeisukeKonta/github-profile-summary-cards/master/profile-summary-card-output/monokai/4-productive-time.svg" alt="Commits (UTC +9)">
+  </a>
+</p>
